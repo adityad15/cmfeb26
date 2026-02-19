@@ -1,6 +1,3 @@
-// Constr.
-//1. default
-//2. para
 class Student{
 	int id; 
 	String name;
