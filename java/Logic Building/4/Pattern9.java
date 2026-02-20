@@ -15,9 +15,6 @@ class Pattern9{
 			for(int j = 0 ; j <= 2*i ; j++){
 				System.out.print("*");
 			}
-			for(int j = 0 ; j < size-i ; j++){
-				System.out.print(" ");
-			}
 		System.out.println();			
 		}
 
